@@ -1,0 +1,1 @@
+This repository demonstrates a common Java error: the ConcurrentModificationException. The example code shows how to trigger this exception, and the solution provides a safe way to modify a list while iterating.
